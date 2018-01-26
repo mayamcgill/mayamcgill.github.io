@@ -1,13 +1,14 @@
 .navbox {
   width: 70%;
   height: 500%;
-  border: 4px solid black;
   margin: auto;
+  border-radius: 10%;
 }
 .navRow {
-  
+
 }
 .navButton {
-  border: 4px solid black;
   size: 150;
+  background-color: #B4D6D3;
+  border: 2px solid #B8BAC8;
 }
